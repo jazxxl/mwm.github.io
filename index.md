@@ -2,5 +2,5 @@
 ![](machine_banner.jpg)
 ### 
 
-[**News**](www.Machinewashmusic.com/News) [**Artists**](machinewashmusic.com/artists) [**Shop**](machinewashmusic.com/shop) [**About_Us**](machinewashmusic.com/about_us) 
+[**News**](news/News.md) [**Artists**](Artists/Artists.md) [**Shop**](machinewashmusic.bandcamp.com) [**About_Us**](about_us/About.md\) 
 
